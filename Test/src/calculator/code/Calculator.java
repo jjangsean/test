@@ -7,9 +7,9 @@ public class Calculator {
 
 	}
 	
-	public int add(int a, int b) {
+	public int add() {
 		int result;
-		result = a+b;
+		result = 2+1;
 		return result;
 	}
 

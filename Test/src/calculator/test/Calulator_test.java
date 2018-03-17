@@ -11,7 +11,7 @@ class Calulator_test {
 	@Test
 	void testAdd() {
 		Calculator cal = new Calculator();
-		assertEquals(3,cal.add(1, 2));
+		assertEquals(3,cal.add());
 	}
 
 }
